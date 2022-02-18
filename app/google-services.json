@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736416906798",
+    "project_id": "fir-f39cd",
+    "storage_bucket": "fir-f39cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736416906798:android:644ceecce4a4fdd6abe9bf",
+        "android_client_info": {
+          "package_name": "com.hemant.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736416906798-p5aa8opsdoiieam3v6sth6rck8t1co67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDXlMF8nzeJkG9oquzUc47PEW_0xMYTsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736416906798-p5aa8opsdoiieam3v6sth6rck8t1co67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
