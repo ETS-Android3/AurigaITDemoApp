@@ -6,7 +6,7 @@ It is a Demo app which contains animated splash screen, login screen and main ac
 - Animated Splash Screen
 
 #### - Login Screen
-#### Use these credentials to login app---->
+**Use these credentials to login app---->**
 - Email id -> hemantjain1999@gmail.com and password -> 123456
 - Save the data using **shared preferences**.
 - email id and password check implemented.
